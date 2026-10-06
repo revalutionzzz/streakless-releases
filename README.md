@@ -8,6 +8,20 @@ Star trail stacking that finds and removes aeroplane and satellite streaks autom
 
 **New to Streakless? Read the [step-by-step guide](GUIDE.md)** (also in the app under **Help → How to use Streakless**).
 
+## Features
+
+- **Planes and satellites removed automatically.** Every streak is found and shown on its own card, even when it crosses many frames, so you can check each one before stacking.
+- **Meteors kept.** Short single-frame streaks are treated as possible meteors and left in, unless you choose to remove them.
+- **RAW straight from the camera.** Canon CR2/CR3, Nikon, Sony, Fuji, DNG and more, with no converting first.
+- **A full-quality 32-bit TIFF** with a matching colour profile, so it edits like a RAW in Lightroom.
+- **Odd frames spotted for you:** headlights, a torch, the lens cap left on or passing cloud are left out, and you can put them back.
+- **Hot pixels removed**, with optional dark frames.
+- **Gap filling** joins the tiny breaks between frames, so trails look continuous.
+- **Comet trails** that fade like a comet's tail, with adjustable strength.
+- **Timelapse videos** of the trails growing or of comet trails, in 16:9, 9:16, 1:1, 4:5 or the original shape, ready for Instagram, Reels or YouTube.
+- **Before/after comparison** that highlights exactly what was removed.
+- **Mac and Windows**, free, with update notifications built in.
+
 ## Download
 
 Go to **[the latest release](../../releases/latest)** and download the file for your computer:
