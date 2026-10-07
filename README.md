@@ -2,7 +2,7 @@
 
 # Streakless
 
-**Star trails without the planes.** Free from [James Jones Photography](https://jamesjones.photography).
+**Stack the frames. Lose the planes.** Free from [James Jones Photography](https://jamesjones.photography).
 
 Star trail stacking that finds and removes aeroplane and satellite streaks automatically, keeps your meteors, and saves a full-quality 32-bit TIFF for Lightroom. It reads your camera's RAW files directly (Canon CR2/CR3, Nikon, Sony, Fuji, DNG and more), so there's no converting first.
 
